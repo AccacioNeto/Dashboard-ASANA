@@ -20,9 +20,6 @@ Tendência Temporal: Gráfico de linhas demonstrando o volume de demandas mês a
 
 Análise de Atrasos: Identificação visual imediata de tarefas "Não agendadas" ou "Atrasadas" para ação rápida da equipe.
 
-📈 **Resultados obtidos**
-Com este painel, a liderança consegue visualizar de forma rápida a saúde operacional da equipe, reduzindo o tempo gasto em reuniões e focando na resolução de problemas/bloqueios.
-
 🚧 **Dificuldades Encontradas e Aprendizados**
 Aqui descrevo os desafios técnicos que encontrei ao utilizar as ferramentas nativas do Asana e como eles foram contornados para entregar uma análise de dados consistente:
 
@@ -37,3 +34,6 @@ Limitação no detalhamento dos dados:: **Desafio:** Por ser uma ferramenta de g
 Escalabilidade da Visualização: **Desafio:** Ao lidar com muitas tarefas (ex: o pico de 126 tarefas em agosto), os gráficos podem se tornar poluídos.
 
 **Solução:** Implementei filtros de visualização por "Projeto" e "Seção", permitindo que o dashboard fosse segmentado para análises mais profundas sem perder a visão macro.
+
+📈 **Resultados obtidos**
+Com este painel, a liderança consegue visualizar de forma rápida a saúde operacional da equipe, reduzindo o tempo gasto em reuniões e focando na resolução de problemas/bloqueios.
